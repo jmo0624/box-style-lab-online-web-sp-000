@@ -31,9 +31,9 @@ h4 {
 }
 
 .indifferent {
-  border: 1px solid #bbb00;
-  box-shadow: -1px 1px #bbb00, -2px 2px #bbb00, -3px 3px #bbb00, -4 4px #bbb00, -5px 5px #bbbb00;
-  background-color: #dddd22;
+  border: 1px solid #c2c246;
+  box-shadow:  -1px 1px #c2c246, -2px 2px #c2c246, -3px 3px #c2c246, -4px 4px #c2c246, -5px 5px #c2c246;
+  background-color: #dddd22;	  background-color: #dddd22;
 }	
 
 .dubious {
