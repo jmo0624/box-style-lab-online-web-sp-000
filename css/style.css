@@ -30,6 +30,22 @@ h4 {
 
 }
 
+h4.amiable {
+  background: linear-gradient(
+    to right,
+    #118833,
+    #66ee88
+  );
+}
+
+h4.amiable:hover {
+  background: linear-gradient(
+    to right,
+    #66ee88,
+    #118833
+  );
+}	}
+
 .indifferent {
   border: 1px solid #c2c246;
   box-shadow:  -1px 1px #c2c246, -2px 2px #c2c246, -3px 3px #c2c246, -4px 4px #c2c246, -5px 5px #c2c246;
